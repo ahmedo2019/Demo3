@@ -1,10 +1,8 @@
 import java.util.Scanner;
 import java.util.*;
-import java.lang.Math;
 import java.util.Arrays;
-import javafx.scene.input.MouseEvent;
 
-public class Grid {
+public class Grid{
 	// numRows = easy
 	public static int numRows = 4;
 	// numRow2 have the rows for the hard mode
